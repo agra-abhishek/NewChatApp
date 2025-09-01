@@ -9,7 +9,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, #e009aa, #474747);
+  background: linear-gradient(135deg, #090de0, #474747);
   color: #333;
   display: flex;
   justify-content: center;
@@ -85,11 +85,6 @@ p {
 #signupMessage {
   font-size: 14px;
   margin-top: 10px;
-<<<<<<< HEAD
-  color: Blue;
-=======
-  color: rgb(17, 255, 9);
->>>>>>> 4a415f4 (Updated frontend index.html and style.css)
 }
 
 /* ✅ Responsive Design */
