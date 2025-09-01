@@ -14,7 +14,7 @@ app.use(express.json());
 const allowedOrigins = [
   "http://localhost:5500", 
   "http://127.0.0.1:5500",
-  "https://newchatapp-1334.onrender.com","https://newchatapp-199.onrender.com"  // Add frontend Render URL later in .env
+  "https://newchatapp-99.onrender.com"  // Add frontend Render URL later in .env
 ];
 
 app.use(cors({
