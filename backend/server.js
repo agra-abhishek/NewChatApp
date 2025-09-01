@@ -14,6 +14,7 @@ app.use(express.json());
 const allowedOrigins = [
   "http://localhost:5500", 
   "http://127.0.0.1:5500",
+  'https://newchatapp-99.onrender.com',
   process.env.FRONTEND_URL  // Add frontend Render URL later in .env
 ];
 
